@@ -9,6 +9,7 @@ social:
   link: "#"
 - icon: fab fa-pinterest
   link: "#"
+image: "/images/ts3.png"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
