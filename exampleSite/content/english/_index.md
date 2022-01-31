@@ -3,11 +3,11 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: IT Solutions
-  content: Defining you and your message
+  title: Software and Design
+  content: All things IT on the Costa Tropical
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Projects
     link: project
 about:
   enable: true
