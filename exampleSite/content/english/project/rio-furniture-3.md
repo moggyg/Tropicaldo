@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Behance Website Redesign
+## Tropical White Villages Website
 
 Tropicaldo was delighted to provide a website for estate agency Tropical white Villages. This 8 week project, working with Catarina, was to develop a simple and clear website for this established agency
 
