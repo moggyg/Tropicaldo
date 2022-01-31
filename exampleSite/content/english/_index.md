@@ -12,15 +12,15 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: '"Coming together is a beginning; keeping together is progress; working
+    together is success."'
+  content: |+
+    Tropicaldo offers you and your company more than 30 years of expertise.
+
+    Marco has over 30 years experience as a software developer. He has worked across many small and medium enterprises, aiding both start up and growing companies. He also has extensive experience working with national companies and government bodies as a senior programmer and developer.
+
+    Gillian A former journalist has developed and run a number of small enterprises over the past 30 years. She has spent many years understanding the workings of the small enterprise and how to develop bespoke strategies for growth.
+
   image: images/wrapper-img.png
 portfolio:
   enable: true
