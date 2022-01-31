@@ -1,7 +1,7 @@
 ---
 title: Tropical White Villages Estate Ageny
 description: Tropical White Villages Estate Agency
-image: "/images/twv.png"
+image: "/images/logo-1.png"
 bg_image: images/feature-bg.jpg
 category: Video
 information:
