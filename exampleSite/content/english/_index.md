@@ -17,9 +17,9 @@ about:
   content: |+
     Tropicaldo offers you and your company more than 30 years of expertise.
 
-    Marco has over 30 years experience as a software developer. He has worked across many small and medium enterprises, aiding both start up and growing companies. He also has extensive experience working with national companies and government bodies as a senior programmer and developer.
+    Marco, an experienced software developer. He has worked across many small and medium enterprises, aiding both start up and growing companies. He also has extensive experience working with national companies and government bodies as a senior programmer and developer.
 
-    Gillian A former journalist has developed and run a number of small enterprises over the past 30 years. She has spent many years understanding the workings of the small enterprise and how to develop bespoke strategies for growth.
+    Gillian, A former journalist, has developed and run a number of small enterprises. She has spent many years understanding the workings of the small enterprise and how to develop bespoke strategies for growth.
 
   image: images/wrapper-img.png
 portfolio:
