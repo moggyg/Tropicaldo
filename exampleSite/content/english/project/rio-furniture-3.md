@@ -8,15 +8,15 @@ information:
 - label: Client
   info: Catarina
 - label: What We Did
-  info: Website Redesign
+  info: Website design
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: Hugo, Forestry, Netlify
 - label: Completed on
-  info: 17th March 2014
+  info: 31 January 2022
 - label: Skills
-  info: HTML5 / PHP / CSS3
+  info: SEO/HTML5/JAVAScript
 - label: Client
-  info: Jannie Kelonsky
+  info: Tropical White Villages Estate Agency
 
 ---
 ## Tropical White Villages Website
