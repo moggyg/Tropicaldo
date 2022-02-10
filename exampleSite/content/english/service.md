@@ -38,31 +38,29 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: We can provide you with the full stack of computing services. <br>Let
+    us separate you from the crowd in more ways than one. Its not all bluster, this
+    is what we do all day, every day!
   service_item:
   - icon: fas fa-layer-group
     name: Web Design
     content: We can build and host your site to get you exactly where you want to
       be.
+  - icon: fas fa-leaf
+    name: Development
+    content: Let us develop your systems to get you moving in the right direction.
   - icon: fas fa-image
     name: App Design
     content: Building apps for all platforms
   - icon: fas fa-headphones-alt
     name: Logo Design
     content: Get creative with us, so your customers identify you instantly.
-  - icon: fas fa-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: fas fa-globe-europe
     name: Social Marketing
     content: Let us shout from the rooftops about what you do best.
   - icon: fas fa-feather
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Creative Content
+    content: 'We have creative writers that will make you sound as good as you are. '
 cta:
   enable: true
 
