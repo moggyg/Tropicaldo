@@ -3,7 +3,7 @@ title: Tropical White Villages Estate Ageny
 description: Tropical White Villages Estate Agency
 image: "/images/tropicaldo_twv.jpg"
 bg_image: images/feature-bg.jpg
-category: Video
+category: Website design
 information:
 - label: Client
   info: Catarina
