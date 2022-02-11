@@ -54,10 +54,8 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Thought for the day
+  description: "'If opportunity doesn't knock, build a door'"
   funfact_item:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
