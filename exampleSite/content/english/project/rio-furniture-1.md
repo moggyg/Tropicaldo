@@ -1,7 +1,7 @@
 ---
 title: Rock and Road Logo Development & Website
 description: Logo development, Web Design
-image: "/images/phone-003.jpg"
+image: "/images/rr.jpg"
 bg_image: images/feature-bg.jpg
 category:
 - UI/UX Design
