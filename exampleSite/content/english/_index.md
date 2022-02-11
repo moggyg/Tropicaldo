@@ -70,6 +70,13 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
+  - name: Gillian Giuliani
+    image: "/images/gg.jpg"
+    designation: Director Business Development
+    content: I setup and ran my first business when I was 12 years old. I was fascinated
+      and excited about the process and thrived on the freedom and responsibility
+      that came with self employment. To this day I am passionate about business and
+      development and enjoy supporting others to realise their true potential.
   - name: Marco Giuliani
     image: "/images/mg.jpg"
     designation: Director, Head of Development
