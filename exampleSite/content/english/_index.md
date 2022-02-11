@@ -71,7 +71,7 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: Marco Giuliani
-    image: ''
+    image: "/images/mg.jpg"
     designation: Director, Head of Development
     content: Technology and innovation is my passion, my hobby. To explore new developments
       and tools keeps our projects fresh, modern and ready for tomorrows world.
