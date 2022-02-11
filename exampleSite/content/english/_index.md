@@ -73,7 +73,7 @@ funfacts:
   - name: Marco Giuliani
     image: "/images/mg.jpg"
     designation: Director, Head of Development
-    content: Technology and innovation is my passion, my hobby. To explore new developments
+    content: Technology and innovation is my passion, my hobby. Exploring new developments
       and tools keeps our projects fresh, modern and ready for tomorrows world.
 
 ---
