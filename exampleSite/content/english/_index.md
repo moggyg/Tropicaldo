@@ -22,18 +22,19 @@ about:
     Gillian, A former journalist, has developed and run a number of small enterprises. She has spent many years understanding the workings of the small enterprise and how to develop bespoke strategies for growth.
 
   image: images/wrapper-img.png
+  funfacts:
+  - icon: ''
+    name: ''
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: " What turns a great idea into a successful venture? determination, clarity
+    of vision and a team around you that are driven to see your ideas expressed and
+    developed to their full potential. \nTropicaldo are focused on playing its part
+    to assist your venture in its technical development. From start-up to established
+    businesses. Tropicaldo will work with you to develop a strategy to realise your
+    goals for your future business development."
   button:
     enable: true
     label: View Works
