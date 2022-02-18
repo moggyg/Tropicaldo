@@ -22,18 +22,19 @@ about:
     Gillian, A former journalist, has developed and run a number of small enterprises. She has spent many years understanding the workings of the small enterprise and how to develop bespoke strategies for growth.
 
   image: images/wrapper-img.png
+  funfacts:
+  - icon: ''
+    name: ''
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: " What turns a great idea into a successful venture? determination, clarity
+    of vision and a team around you that are driven to see your ideas expressed and
+    developed to their full potential. \nTropicaldo are focused on playing its part
+    to assist your venture in its technical development. From start-up to established
+    businesses. Tropicaldo will work with you to develop a strategy to realise your
+    goals for your future business development."
   button:
     enable: true
     label: View Works
@@ -53,10 +54,8 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Thought for the day
+  description: "'If opportunity doesn't knock, build a door'"
   funfact_item:
   - icon: fas fa-mug-hot
     name: Cups Of Coffee
@@ -71,23 +70,17 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Gillian Giuliani
+    image: "/images/gg.jpg"
+    designation: Director Business Development
+    content: I setup and ran my first business when I was 12 years old. I was fascinated
+      and excited about the process and thrived on the freedom and responsibility
+      that came with self employment. To this day I am passionate about business and
+      development and enjoy supporting others to realise their true potential.
+  - name: Marco Giuliani
+    image: "/images/mg.jpg"
+    designation: Director, Head of Development
+    content: Technology and innovation is my passion, my hobby. Exploring new developments
+      and tools keeps our projects fresh, modern and ready for tomorrows world.
 
 ---
