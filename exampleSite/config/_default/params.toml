@@ -22,7 +22,7 @@ action = "#"
 enable = true
 success_image = "images/paper-plane.svg"
 use_netlify = true
-use_recaptcha = true
+use_recaptcha = false
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
