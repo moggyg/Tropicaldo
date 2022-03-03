@@ -26,7 +26,7 @@ about:
   - icon: ''
     name: ''
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " What turns a great idea into a successful venture? determination, clarity

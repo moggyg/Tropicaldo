@@ -1,104 +1,66 @@
 ---
-title: About Our Company
-description: this is meta description
+title: About us here at Topicaldo
+description: Who we are and what do we do?
 bg_image: images/feature-bg.jpg
-layout: about
+layout: service
 about:
   enable: true
-  image: images/company/about.jpg
-  title: We strive to be the best and <br> deliver the best for your organisation.
-  content: "Tropicaldo always start with the most important questions, who are you
-    and what are your goals? <br> By identifying and understanding these important
-    questions we can work with you to develop projects for growth.\n\n \n\n"
-  button:
-    enable: true
-    label: Download Company Profile
-    link: "#"
-  funfacts:
-  - icon: fas fa-flask
-    name: Completed Projects
-    count: "349"
-  - icon: fas fa-fire-alt
-    name: Lines Of Code
-    count: "35000"
-  - icon: fas fa-glasses
-    name: Satisfied Customer
-    count: "70"
-  - icon: fas fa-trophy
-    name: Awards Winner
-    count: "10"
-  - icon: fas fa-glass-cheers
-    name: Satisfied Customer
-    count: "75"
-  - icon: fas fa-certificate
-    name: Awards Winner
-    count: "20"
-features:
+  title: Creative UX/UI Design Agency
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
+    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
+    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
+    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
+    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
+    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
+    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
+    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
+    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
+    dolore officia adipisci neque!
+  image: images/company/company-group-pic.jpg
+featured_service:
   enable: true
-  title: We are indepented Design & Development Agency
-  feature_item:
-  - icon: fab fa-app-store-ios
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-unlock
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-gamepad
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-microphone
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-lightbulb
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: fas fa-star-of-life
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-testimonial:
+  service_item:
+  - name: Interface Design
+    icon: fas fa-flask
+    color: primary
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Product Branding
+    icon: fas fa-leaf
+    color: primary-dark
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: Game Development
+    icon: fas fa-lightbulb
+    color: primary-darker
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+service:
   enable: true
-mission_vision:
-  enable: true
-  tabs:
-  - name: Vision
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
-  - name: Approach
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+  title: Our Services
+  description: We can provide you with the full stack of computing services. <br>Let
+    us separate you from the crowd in more ways than one. Its not all bluster, this
+    is what we do all day, every day!
+  service_item:
+  - icon: fas fa-layer-group
+    name: Web Design
+    content: We can build and host your site to get you exactly where you want to
+      be.
+  - icon: fas fa-leaf
+    name: Development
+    content: Let us develop your systems to get you moving in the right direction.
+  - icon: fas fa-image
+    name: App Design
+    content: Building apps for all platforms
+  - icon: fas fa-headphones-alt
+    name: Logo Design
+    content: Get creative with us, so your customers identify you instantly.
+  - icon: fas fa-globe-europe
+    name: Social Marketing
+    content: Let us shout from the rooftops about what you do best.
+  - icon: fas fa-feather
+    name: Creative Content
+    content: 'We have creative writers that will make you sound as good as you are. '
 cta:
   enable: true
 
