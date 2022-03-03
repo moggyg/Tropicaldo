@@ -5,36 +5,30 @@ bg_image: images/feature-bg.jpg
 layout: service
 about:
   enable: true
-  title: Creative UX/UI Design Agency
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  title: Creative Software Design Agency
+  content: Currently expanding in the Costa Tropical, Tropicaldo offer bespoke software and marketing
+  systems to help you take your business or project to the next level. We can design and implement 
+  everything needed to get you off the ground or kick-start your ideas into life. With full automation
+  workflows we can make it easy for you to forget about the complication of systems and concentrate on
+  doing what you do best!
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: Software Design
     icon: fas fa-flask
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: Product Branding
+    content: From simple website design to creating a fully integrated software solution, talk to us to find out more.
+  - name: Product/Business marketing
     icon: fas fa-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-  - name: Game Development
+    content: Let us manage your social and email marketing. With tailored workflows, we can make sure you dont miss 
+    an opportunity again. 
+  - name: Business mentoring
     icon: fas fa-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Looking for some business advice and ideas to take your idea forward? We have business advisors to talk
+    over the fine detail of your plans.
 service:
   enable: true
   title: Our Services
