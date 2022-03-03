@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Software and Design <br> ____ <t> ____ <br> tropicaldo.com
+  title: Software and Design <br><pre><code> ____ <t> ____ </code></pre><br>tropicaldo.com
   content: All things IT on the Costa Tropical
   button:
     enable: true
