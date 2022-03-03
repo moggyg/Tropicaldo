@@ -11,42 +11,50 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Basic"
-    price: "$99"
-    content : "Perfect for single freelancers who work by themselves"
+    price: "From €499"
+    content : "Perfect for single calalogue site or blog"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
+    - Site Design
+    - Custom Contact Form
+    - Free basic hosting
+    - Content supplied by client
     - Email Marketing
-    - 24/7 Tech Support
+    - Full training given
 
   # pricing table loop
   - name : "Premium"
-    price: "$199"
-    content : "Suitable for small businesses with up to 5 employees"
+    price: "From €799"
+    content : "Suitable for small businesses or business startup"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
+    - Site Design
+    - Logo Design
+    - Custom Contact Forms
+    - Text Search pages
+    - Language options
+    - Up to 5 Workflows created 
+    - Social media campain
     - Email Marketing
-    - 24/7 Tech Support
+    - Full training given
 
   # pricing table loop
   - name : "Advance"
-    price: "$299"
-    content : "Suitable for large businesses with unlimited employees"
+    price: "From €1499"
+    content : "Suitable for large businesses."
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
+    - Site Design
+    - Logo Design
+    - Custom Forms
+    - Custom Search pages
+    - SEO and Adwords
+    - Online Store
+    - Language options
+    - Up to 30 Workflows created 
+    - Social media campain
     - Email Marketing
-    - 24/7 Tech Support
+    - Full training given
 
 ############################# call to action #################################
 cta:

@@ -37,12 +37,6 @@ hasChildren = true
   name = "Tariffazione"
   url = "pricing/"
   weight = 2
-
-  [[main]]
-  parent = "Più"
-  name = "Domande frequenti"
-  url = "faq/"
-  weight = 3
   
 [[main]]
 name = "Contatta"
