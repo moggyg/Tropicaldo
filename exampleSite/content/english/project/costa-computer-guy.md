@@ -4,7 +4,9 @@ description: "Website project for IT support company"
 draft: false
 image : "images/costacomputerguy.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Website design"
+category:
+  - Website design
+  - Marketing
 information:
   - label : "Client"
     info : "Costa Computer Guy"
