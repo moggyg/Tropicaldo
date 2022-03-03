@@ -7,7 +7,7 @@ banner:
   content: All things IT on the Costa Tropical
   button:
     enable: true
-    label: Discover Our Projects
+    label: Discover Our Projects <br> ____ <t> ____ <br> tropicaldo.com
     link: project
 about:
   enable: true
