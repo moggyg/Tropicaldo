@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "Our Projects"
+description: "Se what we have been up to."
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
