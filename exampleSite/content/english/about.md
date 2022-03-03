@@ -7,10 +7,10 @@ about:
   enable: true
   title: Creative Software Design Agency
   content: Currently expanding in the Costa Tropical, Tropicaldo offer bespoke software and marketing
-  systems to help you take your business or project to the next level. We can design and implement 
-  everything needed to get you off the ground or kick-start your ideas into life. With full automation
-  workflows we can make it easy for you to forget about the complication of systems and concentrate on
-  doing what you do best!
+    systems to help you take your business or project to the next level. We can design and implement 
+    everything needed to get you off the ground or kick-start your ideas into life. With full automation
+    workflows we can make it easy for you to forget about the complication of systems and concentrate on
+    doing what you do best!
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
@@ -23,12 +23,12 @@ featured_service:
     icon: fas fa-leaf
     color: primary-dark
     content: Let us manage your social and email marketing. With tailored workflows, we can make sure you dont miss 
-    an opportunity again. 
+      an opportunity again. 
   - name: Business mentoring
     icon: fas fa-lightbulb
     color: primary-darker
     content: Looking for some business advice and ideas to take your idea forward? We have business advisors to talk
-    over the fine detail of your plans.
+      over the fine detail of your plans.
 service:
   enable: true
   title: Our Services
