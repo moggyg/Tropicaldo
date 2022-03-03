@@ -1,6 +1,6 @@
 ---
 title: "Our Pricing"
-description: "this is meta description"
+description: "Pick a package, or get in touch to discuss our options."
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
 draft: false
