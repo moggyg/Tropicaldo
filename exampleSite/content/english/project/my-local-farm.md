@@ -4,8 +4,8 @@ description: Fresh Fruit & Vegetables, Box Delivery, Food Delivery
 image: "/images/mlf2.jpg"
 bg_image: images/feature-bg.jpg
 category: 
-  - Online store
-  - Website design
+  - Online Store
+  - Website Design
 information:
 - label: Client
   info: My Local Farm
@@ -23,7 +23,11 @@ information:
 ---
 ## Logo, Website Development & Customer ordering and Database 
 
-A start up company delivering fresh local fruit and vegetable produce door to door. The box scheme started as a company relying on telephone ordering and with our support developed a completely integrated online selection and ordering system. <br>Customers selected choice of goods<br>customer preferences printed for packing staff<br>orders were collated into different runs for drivers<br>
+A start up company delivering fresh local fruit and vegetable produce door to door. The box scheme started as a company relying on telephone ordering and with our support developed a completely integrated online selection and ordering system.
+### Key Features 
+#### Customers selected choice of goods
+#### customer preferences printed for packing staff
+#### orders were collated into different runs for drivers
 
 ### Customer portal
 

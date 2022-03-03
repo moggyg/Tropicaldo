@@ -5,7 +5,7 @@ draft: false
 image : "images/portfolio/work6.jpg"
 bg_image: "images/feature-bg.jpg"
 category: 
-  - Website design
+  - Website Design
   - Blog
 information:
   - label : "Client"

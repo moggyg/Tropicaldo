@@ -5,7 +5,7 @@ draft: false
 image : "images/costacomputerguy.jpg"
 bg_image: "images/feature-bg.jpg"
 category:
-  - Website design
+  - Website Design
   - Marketing
 information:
   - label : "Client"

@@ -4,7 +4,7 @@ description: Logo development, Web Design
 image: "/images/rr.jpg"
 bg_image: images/feature-bg.jpg
 category:
-  - Website design
+  - Website Design
   - Logo Design
 information:
 - label: Client
