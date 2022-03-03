@@ -66,11 +66,6 @@ url = "pricing/"
 weight = 5
 
 [[footer]]
-name = "Questions fréquentes"
-url = "faq/"
-weight = 6
-
-[[footer]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 6
