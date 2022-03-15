@@ -9,7 +9,10 @@ social:
   link: "#"
 - icon: fab fa-pinterest
   link: "#"
+image: "/images/gg.jpg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+I setup and ran my first business when I was 12 years old. I was fascinated
+and excited about the process and thrived on the freedom and responsibility
+that came with self employment. To this day I am passionate about business and
+development and enjoy supporting others to realise their true potential.

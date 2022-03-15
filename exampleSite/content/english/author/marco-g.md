@@ -9,8 +9,8 @@ social:
   link: "#"
 - icon: fab fa-pinterest
   link: "#"
-image: "/images/ts3.png"
+image: "/images/mg.jpg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Technology and innovation is my passion, my hobby. Exploring new developments
+      and tools keeps our projects fresh, modern and ready for tomorrows world.
