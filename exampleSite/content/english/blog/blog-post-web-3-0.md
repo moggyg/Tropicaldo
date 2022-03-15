@@ -1,7 +1,7 @@
 ---
 title: "Web3.0 is it the FUTURE!"
 date: 2022-03-01T11:07:10+06:00
-author: Gillian G
+author: Gillian Giuliani
 image : "images/blog/laptop-coffee-break.jpg"
 bg_image: "images/blog/laptop-coffee-break.jpg"
 categories: ["Web3.0"]

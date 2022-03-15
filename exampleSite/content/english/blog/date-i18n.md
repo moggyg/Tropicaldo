@@ -1,7 +1,7 @@
 ---
 title: "Pretty-print dates"
 date: 2022-02-01T00:00:00+01:00
-author: Gillian G
+author: Gillian Giuliani
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/blog/blog-post-1.jpg"
 categories: ["Hugo"]
