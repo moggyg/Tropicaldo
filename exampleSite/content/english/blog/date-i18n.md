@@ -1,10 +1,10 @@
 ---
 title: "Pretty-print dates"
-date: 2021-04-01T00:00:00+01:00
+date: 2022-02-01T00:00:00+01:00
 author: Gillian G
 image : "images/blog/blog-post-1.jpg"
-bg_image: "images/feature-bg.jpg"
-categories: ["Technical Assistance"]
+bg_image: "images/blog/blog-post-1.jpg"
+categories: ["Hugo"]
 tags: ["How to", "Technology"]
 draft: false
 type: "post"

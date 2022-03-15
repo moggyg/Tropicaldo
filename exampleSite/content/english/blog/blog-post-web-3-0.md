@@ -1,6 +1,6 @@
 ---
 title: "Web3.0 is it the FUTURE!"
-date: 2018-09-24T11:07:10+06:00
+date: 2022-03-01T11:07:10+06:00
 author: Gillian G
 image : "images/blog/laptop-coffee-break.jpg"
 bg_image: "images/blog/laptop-coffee-break.jpg"
