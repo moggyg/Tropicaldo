@@ -1,5 +1,5 @@
 ---
-title: "How To Wear Bright Shoes"
+title: "Web3.0 is it the FUTURE!"
 date: 2018-09-24T11:07:10+06:00
 author: Gillian G
 image : "images/blog/laptop-coffee-break.jpg"
@@ -164,4 +164,4 @@ The point is that it slowly emerged. Web 2.0 with its social networks, multiplay
 
 ### Web 3.0 will be the same.
 
-Perhaps you will wake up one morning and realize that your browser embodies a set of bots that do really useful things for you, that you have a Digital ID and that you can interact intelligently with the Internet. When that happens you will have a right to declare: “Oh yes, this is Web 3.0.”
+> Perhaps you will wake up one morning and realize that your browser embodies a set of bots that do really useful things for you, that you have a Digital ID and that you can interact intelligently with the Internet. When that happens you will have a right to declare: “Oh yes, this is Web 3.0.”
