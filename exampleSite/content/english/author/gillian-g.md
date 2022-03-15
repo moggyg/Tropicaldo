@@ -1,7 +1,7 @@
 ---
 title: Gillian Giuliani
 email: ggiuliani@hotmail.co.uk
-bg_image: images/gg.jpg
+bg_image: images/company/company-group-pic.jpg
 social:
 - icon: fab fa-facebook
   link: "#"

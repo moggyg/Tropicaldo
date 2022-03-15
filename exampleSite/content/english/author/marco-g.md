@@ -1,7 +1,7 @@
 ---
 title: Marco Giuliani
 email: mgiuliani@hotmail.co.uk
-bg_image: images/mg.jpg
+bg_image: images/company/company-group-pic.jpg
 social:
 - icon: fab fa-facebook
   link: "#"
