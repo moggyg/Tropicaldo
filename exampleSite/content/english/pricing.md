@@ -34,7 +34,7 @@ pricing:
     - Text Search pages
     - Language options
     - Up to 5 Workflows created 
-    - Social media campain
+    - Social media campaign
     - Email Marketing
     - Full training given
 
@@ -52,7 +52,7 @@ pricing:
     - Online Store
     - Language options
     - Up to 30 Workflows created 
-    - Social media campain
+    - Social media campaign
     - Email Marketing
     - Full training given
 
