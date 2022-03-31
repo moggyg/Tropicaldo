@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Software and Design <br> ____ &lt;t&gt; ____ <br>tropicaldo.com
-  content: All things IT on the Costa Tropical
+  title: ____ &lt;t&gt; ____ <br>tropicaldo.com
+  content: Software and Design <br> All things IT on the Costa Tropical
   button:
     enable: true
     label: Discover Our Projects
